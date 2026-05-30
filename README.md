@@ -1,4 +1,5 @@
 <!-- Banner / Header -->
+
 <h1 align="center">Hi, I'm Shaad Ahmmed 👋</h1>
 
 <p align="center">
@@ -17,8 +18,8 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Sc. in Computer Science & Engineering at **United International University** — CGPA **3.93 / 4.00**
-- 👨‍🏫 **Undergraduate Assistant** — supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
+- 🎓 B.Sc. in Computer Science & Engineering at **United International University** - CGPA **3.93 / 4.00**
+- 👨‍🏫 **Undergraduate Assistant** - supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
 - 🔬 Researching **energy-efficient algorithms** and **retrieval-augmented LLM pipelines**
 - 🌱 Currently exploring **distributed systems**, **real-time backends**, and **LLM-assisted tooling**
 - 💬 Ask me about **TypeScript**, **NestJS**, **React / React Native**, **PostgreSQL**, or **scraping pipelines**
@@ -28,6 +29,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -39,6 +41,7 @@
 </p>
 
 **Frameworks & Runtimes**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -50,6 +53,7 @@
 </p>
 
 **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -59,6 +63,7 @@
 </p>
 
 **Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -73,50 +78,50 @@
 ## 🚀 Featured Projects
 
 ### 🎓 [UIU Helper](https://uiuhelper.vercel.app)
-Automated ELMS email collection — reduced a **15-minute manual workflow to a single click**.
+
+Automated ELMS email collection - reduced a **15-minute manual workflow to a single click**.
+
 > `TanStack Start` · `React` · `PostgreSQL` · `GitHub Actions` · `Web Scraping`
 
 ### 🏠 [Bariwala](https://github.com/shaadahmmed/bariwala-sad)
+
 Centralized real-estate platform aggregating listings from **20+ property sources** with role-based dashboards for owners and tenants. Improved property discovery efficiency by **35%**.
+
 > `React` · `Express` · `PostgreSQL` · `RBAC` · `REST API`
 
-### 🤝 Collide *(in progress)*
-A collaboration-focused social platform helping researchers discover partners by shared research interests, with real-time interaction pipelines.
-> `React Native` · `NestJS` · `PostgreSQL` · `Realtime APIs`
+### ⏳ 2 Projects In Progress
 
-### 🎯 Scholarship Hunt *(in progress)*
-An intelligent scholarship discovery platform aggregating global funding opportunities with LLM-assisted filtering and ranking.
-> `TanStack Start` · `ExpressJS` · `PostgreSQL` · `MCP` · `LLM Integration`
+- `React Native` · `NestJS` · `PostgreSQL` · `Realtime APIs` — **Research Collaboration / Social Networking**
+- `TanStack Start` · `ExpressJS` · `PostgreSQL` · `MCP` · `LLM Integration` — **EdTech / AI-Assisted Discovery**
 
 ---
 
 ## 📚 Research
 
-**🔋 Skipping the Unnecessary: Energy Savings Through Adaptive Merge Sort Across Heterogeneous Platforms** — *Manuscript in Preparation, 2026*
-An adaptive merge-sort optimization that eliminates redundant comparisons to improve computational energy efficiency across CPUs and resource-constrained systems.
+### ⏳ 2 Papers In Progress *(Manuscripts in Preparation, 2026)*
 
-**🔍 Scrape and Search: Reducing LLM Computational Cost Using Retrieval-Augmented Structured Web Data Pipelines** — *Manuscript in Preparation, 2026*
-A hybrid scraping + structured retrieval pipeline that reduces dependence on high-cost LLM inference workflows.
+- Field: **Energy-Efficient Algorithms & Systems**
+- Field: **LLM Cost Optimization / Retrieval-Augmented Generation**
 
 ---
 
 ## 🏆 Highlights
 
-- 🎖️ **UIU Merit Scholarship** — 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
-- 👥 Mentored a **Project Show winning team** as Undergraduate Assistant
-- 🗣️ Trained in Corporate Presentation, Professional Communication & Interview Prep — Grameenphone Academy
+- 🎖️ **UIU Merit Scholarship** - 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
+- 👥 Mentored two **Project Show winning team** as Undergraduate Assistant
+- 🗣️ Trained in Corporate Presentation, Professional Communication & Interview Prep - Grameenphone Academy
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=<!-- TODO: your GitHub username -->&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- TODO: your GitHub username -->&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaadahmmed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadahmmed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<!-- TODO: your GitHub username -->&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaadahmmed&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -125,9 +130,9 @@ A hybrid scraping + structured retrieval pipeline that reduces dependence on hig
 
 I'm open to collaboration on **open-source projects**, **research**, and **internship / full-time opportunities**.
 
-- 📧 **Email:** <!-- TODO: your email -->
-- 💼 **LinkedIn:** <!-- TODO: your LinkedIn URL -->
-- 🌐 **Portfolio:** <!-- TODO: your portfolio URL -->
+- 📧 **Email:** `shaadahmmed@gmail.com`
+- 💼 **LinkedIn:** `https://linkedin.com/in/shaadahmmed`
+- 🌐 **Portfolio:** `https://portfolio.shaadahmmed.workers.dev`
 
 <p align="center">
   <i>"Building efficient systems, one commit at a time."</i>
