@@ -1,121 +1,103 @@
-<!-- Banner / Header -->
+<!-- Header -->
 
-<h1 align="center">Hi, I'm Shaad Ahmmed 👋</h1>
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shaad%20Ahmmed&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20%7C%20Full-Stack%20Developer%20%7C%20Researcher&descAlignY=55&descSize=18" />
 
 <p align="center">
-  Final-year CSE student • Full-stack developer • AI/ML & IoT enthusiast
-  <br/>
-  Building practical, efficient solutions and exploring energy-aware computing.
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Final-year+CSE+student+%40+UIU+%7C+CGPA+3.93%2F4.00;Building+practical%2C+efficient+solutions;Exploring+distributed+systems+%26+LLM+tooling;TypeScript+%7C+NestJS+%7C+React+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio.shaadahmmed.workers.dev"><img src="https://img.shields.io/badge/Portfolio-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shaadahmmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://x.com/shaadahmmed"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://portfolio.shaadahmmed.workers.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shaadahmmed"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://x.com/shaadahmmed"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ![About Me](https://img.shields.io/badge/About_Me-7C3AED?style=flat-square&logoColor=white)
 
-- 🎓 B.Sc. in Computer Science & Engineering at **United International University** - CGPA **3.93 / 4.00**
-- 👨‍🏫 **Undergraduate Assistant** - supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
-- 🔬 Researching **energy-efficient algorithms** and **retrieval-augmented LLM pipelines**
-- 🌱 Currently exploring **distributed systems**, **real-time backends**, and **LLM-assisted tooling**
-- 💬 Ask me about **TypeScript**, **NestJS**, **React / React Native**, **PostgreSQL**, or **scraping pipelines**
+- B.Sc. in Computer Science & Engineering at **United International University** — CGPA **3.93 / 4.00**
+- **Undergraduate Assistant** — supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
+- Researching **energy-efficient algorithms** and **retrieval-augmented LLM pipelines**
+- Currently exploring **distributed systems**, **real-time backends**, and **LLM-assisted tooling**
+- Ask me about **TypeScript**, **NestJS**, **React / React Native**, **PostgreSQL**, or **scraping pipelines**
 
 ---
 
-## 🛠️ Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/Tech_Stack-0EA5E9?style=flat-square&logo=stackblitz&logoColor=white)
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,bash" />
 </p>
 
 **Frameworks & Runtimes**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,spring" />
+  <br/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="TanStack" src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+  <br/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,docker,githubactions,linux,vscode" />
+  <br/>
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ![Featured Projects](https://img.shields.io/badge/Featured_Projects-16A34A?style=flat-square&logo=github&logoColor=white)
 
-### 🎓 [UIU Helper](https://uiuhelper.vercel.app)
+### [UIU Helper](https://uiuhelper.vercel.app)
 
-Automated ELMS email collection - reduced a **15-minute manual workflow to a single click**.
+Automated ELMS email collection — reduced a **15-minute manual workflow to a single click**.
 
 > `TanStack Start` · `React` · `PostgreSQL` · `GitHub Actions` · `Web Scraping`
 
-### 🏠 [Bariwala](https://github.com/shaadahmmed/bariwala-sad)
+### [Bariwala](https://github.com/shaadahmmed/bariwala-sad)
 
 Centralized real-estate platform aggregating listings from **20+ property sources** with role-based dashboards for owners and tenants. Improved property discovery efficiency by **35%**.
 
 > `React` · `Express` · `PostgreSQL` · `RBAC` · `REST API`
 
-### ⏳ 2 Projects In Progress
+### ![In Progress](https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square) 2 Projects
 
 - `React Native` · `NestJS` · `PostgreSQL` · `Realtime APIs` — **Research Collaboration / Social Networking**
 - `TanStack Start` · `ExpressJS` · `PostgreSQL` · `MCP` · `LLM Integration` — **EdTech / AI-Assisted Discovery**
 
 ---
 
-## 📚 Research
+## ![Research](https://img.shields.io/badge/Research-DC2626?style=flat-square&logo=researchgate&logoColor=white)
 
-### ⏳ 2 Papers In Progress *(Manuscripts in Preparation, 2026)*
+### ![In Progress](https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square) 2 Papers *(Manuscripts in Preparation, 2026)*
 
 - Field: **Energy-Efficient Algorithms & Systems**
 - Field: **LLM Cost Optimization / Retrieval-Augmented Generation**
 
 ---
 
-## 🏆 Highlights
+## ![Highlights](https://img.shields.io/badge/Highlights-EAB308?style=flat-square&logoColor=white)
 
-- 🎖️ **UIU Merit Scholarship** - 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
-- 👥 Mentored two **Project Show winning team** as Undergraduate Assistant
-- 🗣️ Trained in Corporate Presentation, Professional Communication & Interview Prep - Grameenphone Academy
+- **UIU Merit Scholarship** — 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
+- Mentored **Project Show winning teams** as Undergraduate Assistant
+- Trained in Corporate Presentation, Professional Communication & Interview Prep — Grameenphone Academy
 
 ---
 
-## 📊 GitHub Stats
+## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-1F2328?style=flat-square&logo=github&logoColor=white)
 
 <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaadahmmed&theme=tokyonight" />
@@ -128,14 +110,18 @@ Centralized real-estate platform aggregating listings from **20+ property source
 
 ---
 
-## 📫 Let's Connect
+## ![Let's Connect](https://img.shields.io/badge/Let's_Connect-0EA5E9?style=flat-square&logo=gmail&logoColor=white)
 
 I'm open to collaboration on **open-source projects**, **research**, and **internship / full-time opportunities**.
 
-- 📧 **Email:** `shaadahmmed@gmail.com`
-- 💼 **LinkedIn:** `https://linkedin.com/in/shaadahmmed`
-- 🌐 **Portfolio:** `https://portfolio.shaadahmmed.workers.dev`
+- **Email:** `shaadahmmed@gmail.com`
+- **LinkedIn:** `https://linkedin.com/in/shaadahmmed`
+- **Portfolio:** `https://portfolio.shaadahmmed.workers.dev`
 
 <p align="center">
   <i>"Building efficient systems, one commit at a time."</i>
 </p>
+
+<!-- Footer -->
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
