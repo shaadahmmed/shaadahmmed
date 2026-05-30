@@ -16,8 +16,8 @@
 
 ## ![About Me](https://img.shields.io/badge/About_Me-7C3AED?style=flat-square&logoColor=white)
 
-- B.Sc. in Computer Science & Engineering at **United International University** — CGPA **3.93 / 4.00**
-- **Undergraduate Assistant** — supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
+- B.Sc. in Computer Science & Engineering at **United International University** - CGPA **3.93 / 4.00**
+- **Undergraduate Assistant** - supporting faculty and mentoring **200+** students across DBMS, DSA, Microprocessors, and Intro to CS labs
 - Researching **energy-efficient algorithms** and **retrieval-augmented LLM pipelines**
 - Currently exploring **distributed systems**, **real-time backends**, and **LLM-assisted tooling**
 - Ask me about **TypeScript**, **NestJS**, **React / React Native**, **PostgreSQL**, or **scraping pipelines**
@@ -63,7 +63,7 @@
 
 ### [UIU Helper](https://uiuhelper.vercel.app)
 
-Automated ELMS email collection — reduced a **15-minute manual workflow to a single click**.
+Automated ELMS email collection - reduced a **15-minute manual workflow to a single click**.
 
 > `TanStack Start` · `React` · `PostgreSQL` · `GitHub Actions` · `Web Scraping`
 
@@ -75,8 +75,8 @@ Centralized real-estate platform aggregating listings from **20+ property source
 
 ### ![In Progress](https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square) 2 Projects
 
-- `React Native` · `NestJS` · `PostgreSQL` · `Realtime APIs` — **Research Collaboration / Social Networking**
-- `TanStack Start` · `ExpressJS` · `PostgreSQL` · `MCP` · `LLM Integration` — **EdTech / AI-Assisted Discovery**
+- `React Native` · `NestJS` · `PostgreSQL` · `Realtime APIs` - **Research Collaboration / Social Networking**
+- `TanStack Start` · `ExpressJS` · `PostgreSQL` · `MCP` · `LLM Integration` - **EdTech / AI-Assisted Discovery**
 
 ---
 
@@ -91,9 +91,9 @@ Centralized real-estate platform aggregating listings from **20+ property source
 
 ## ![Highlights](https://img.shields.io/badge/Highlights-EAB308?style=flat-square&logoColor=white)
 
-- **UIU Merit Scholarship** — 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
+- **UIU Merit Scholarship** - 100% tuition waiver (2022–2026), maintained CGPA above 3.50 with multiple 4.00 trimester GPAs
 - Mentored **Project Show winning teams** as Undergraduate Assistant
-- Trained in Corporate Presentation, Professional Communication & Interview Prep — Grameenphone Academy
+- Trained in Corporate Presentation, Professional Communication & Interview Prep - Grameenphone Academy
 
 ---
 
