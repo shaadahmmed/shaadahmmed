@@ -116,12 +116,12 @@ Centralized real-estate platform aggregating listings from **20+ property source
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaadahmmed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadahmmed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaadahmmed&theme=tokyonight" />
+  <img height="170" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaadahmmed&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaadahmmed&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shaadahmmed&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
